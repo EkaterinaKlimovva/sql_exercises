@@ -1,1 +1,3 @@
-# sql_exercises
+# SQL exercises
+
+Some SQL tasks
